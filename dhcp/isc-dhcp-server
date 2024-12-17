@@ -1,0 +1,8 @@
+# Archivo: /etc/default/isc-dhcp-server
+
+# El servicio DHCP se ejecutará en estas interfaces
+INTERFACESv4="eth0"
+
+# Si necesitas configurar también el soporte IPv6, puedes usar:
+# INTERFACESv6="eth0"
+
